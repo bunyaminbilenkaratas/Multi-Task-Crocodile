@@ -8,6 +8,11 @@ Lightweight multitasking library for Arduino and other microprocessors.
 This project is not completed yet!
 
 
+## Author
+
+[@karatasbilen](https://twitter.com/karatasbilen)
+
+
 ## Contributing
 
 Contributions are always welcome !
